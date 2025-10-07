@@ -1,0 +1,4 @@
+origin	https://github.com/D-Jensen1/mcp-workshop-dotnet (fetch)
+origin	https://github.com/D-Jensen1/mcp-workshop-dotnet (push)
+upstream	https://github.com/MSSA-PCAD19/mcp-workshop-dotnet.git (fetch)
+upstream	https://github.com/MSSA-PCAD19/mcp-workshop-dotnet.git (push)
