@@ -1,32 +1,20 @@
 namespace MyMonkeyApp;
 
-/// <summary>
-/// Represents a monkey with its characteristics and information.
-/// </summary>
+// Represents a monkey with its characteristics and information.
 public class Monkey
 {
-    /// <summary>
-    /// Gets or sets the name of the monkey.
-    /// </summary>
+    // Gets or sets the name of the monkey.
     public required string Name { get; set; }
 
-    /// <summary>
-    /// Gets or sets the location where the monkey is found.
-    /// </summary>
+    // Gets or sets the location where the monkey is found.
     public required string Location { get; set; }
 
-    /// <summary>
-    /// Gets or sets detailed information about the monkey.
-    /// </summary>
+    // Gets or sets detailed information about the monkey.
     public required string Details { get; set; }
 
-    /// <summary>
-    /// Gets or sets the URL or path to the monkey's image.
-    /// </summary>
+    // Gets or sets the URL or path to the monkey's image.
     public required string Image { get; set; }
 
-    /// <summary>
-    /// Gets or sets the population count of the monkey species.
-    /// </summary>
+    // Gets or sets the population count of the monkey species.
     public required int Population { get; set; }
 }
